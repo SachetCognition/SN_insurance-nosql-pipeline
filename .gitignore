@@ -1,0 +1,12 @@
+# Environment files with secrets
+.envrc
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# DBT
+target/
+dbt_packages/
+logs/
